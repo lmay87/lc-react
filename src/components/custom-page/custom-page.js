@@ -33,12 +33,12 @@ function useWindowDimensions() {
 
 function CustomNextArrow(props) {
   const { className, style, onClick } = props
-  return <div class="slick-prev" onClick={onClick}></div>
+  return <div className="slick-prev" onClick={onClick}></div>
 }
 
 function CustomPrevArrow(props) {
   const { className, style, onClick } = props
-  return <div class="slick-next" onClick={onClick}></div>
+  return <div className="slick-next" onClick={onClick}></div>
 }
 
 const CustomPage = ({ imageList }) => {

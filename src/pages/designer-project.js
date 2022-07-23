@@ -1,6 +1,6 @@
-import Head from "next/head";
+import Head from 'next/head'
 
-import CustomPage from "../components/custom-page/custom-page";
+import CustomPage from '../components/custom-page/custom-page'
 
 export default function DesignerProject() {
   return (
@@ -15,10 +15,10 @@ export default function DesignerProject() {
         />
         <meta property="og:url" content="/designer-project" />
         <meta
-          itemprop="name"
+          itemProp="name"
           content="DESIGNER PROJECT — Lindsey Carrillo Design Portfolio"
         />
-        <meta itemprop="url" content="/designer-project" />
+        <meta itemProp="url" content="/designer-project" />
         <meta
           name="twitter:title"
           content="DESIGNER PROJECT — Lindsey Carrillo Design Portfolio"
@@ -28,25 +28,25 @@ export default function DesignerProject() {
       <CustomPage
         imageList={[
           {
-            src: "/assets/images/designer-project/designer-project-1.jpg",
+            src: '/assets/images/designer-project/designer-project-1.jpg',
           },
           {
-            src: "/assets/images/designer-project/designer-project-2.jpg",
+            src: '/assets/images/designer-project/designer-project-2.jpg',
           },
           {
-            src: "/assets/images/designer-project/designer-project-3.jpg",
+            src: '/assets/images/designer-project/designer-project-3.jpg',
           },
           {
-            src: "/assets/images/designer-project/designer-project-4.jpg",
+            src: '/assets/images/designer-project/designer-project-4.jpg',
           },
           {
-            src: "/assets/images/designer-project/designer-project-5.jpg",
+            src: '/assets/images/designer-project/designer-project-5.jpg',
           },
           {
-            src: "/assets/images/designer-project/designer-project-6.jpg",
+            src: '/assets/images/designer-project/designer-project-6.jpg',
           },
         ]}
       />
     </section>
-  );
+  )
 }

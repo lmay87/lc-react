@@ -1,4 +1,4 @@
-import Head from "next/head";
+import Head from 'next/head'
 
 export default function Home() {
   return (
@@ -7,8 +7,8 @@ export default function Home() {
         <title>Lindsey Carrillo Design Portfolio</title>
         <meta property="og:title" content="Lindsey Carrillo Design Portfolio" />
         <meta property="og:url" content="/" />
-        <meta itemprop="name" content="Lindsey Carrillo Design Portfolio" />
-        <meta itemprop="url" content="/" />
+        <meta itemProp="name" content="Lindsey Carrillo Design Portfolio" />
+        <meta itemProp="url" content="/" />
         <meta
           name="twitter:title"
           content="Lindsey Carrillo Design Portfolio"
@@ -42,15 +42,15 @@ export default function Home() {
                         sqs-block-image-figure
                         intrinsic
                       "
-                    style={{ maxWidth: "1148px" }}
+                    style={{ maxWidth: '1148px' }}
                   >
                     <div className="image-block-wrapper">
                       <div
                         className="sqs-image-shape-container-elementhas-aspect-ratio"
                         style={{
-                          position: "relative",
-                          paddingBottom: "48.125%",
-                          overflow: "hidden",
+                          position: 'relative',
+                          paddingBottom: '48.125%',
+                          overflow: 'hidden',
                         }}
                       >
                         <img
@@ -81,8 +81,8 @@ export default function Home() {
               id="block-c0eeab3406aeedffcf42"
             >
               <div className="sqs-block-content">
-                <h1 style={{ whiteSpace: "pre-wrap" }}>About</h1>
-                <p className="" style={{ whiteSpace: "pre-wrap" }}>
+                <h1 style={{ whiteSpace: 'pre-wrap' }}>About</h1>
+                <p className="" style={{ whiteSpace: 'pre-wrap' }}>
                   &nbsp;Lindsey Carrillo started out her career as a fashion
                   designer. First working for 600 West as an Associate Assistant
                   Designer. 600 West at the time was a missy fit line,
@@ -91,28 +91,29 @@ export default function Home() {
                   sourcing, spec sheets, line sheets, look book styling and much
                   more.
                 </p>
-                <p className="" style={{ whiteSpace: "pre-wrap" }}>
+                <p className="" style={{ whiteSpace: 'pre-wrap' }}>
                   Wanting to learn more about the fashion world, Lindsey then
                   starting working for Mira Couture. There she designed custom
                   clothing, and wedding gowns. She was in charge of design,
                   fabric and notion sourcing, pattern making, fit, and customer
                   relations.
                 </p>
-                <p className="" style={{ whiteSpace: "pre-wrap" }}>
+                <p className="" style={{ whiteSpace: 'pre-wrap' }}>
                   Moving to Texas was an expected &nbsp;turn in life but Lindsey
                   took full advantage by going back to college to learn Graphic
                   Design. That is when she started working for the oil and gas
                   company, CGG Veritas. She worked as a graphic designer in the
                   creative department.&nbsp;
                 </p>
-                <p className="" style={{ whiteSpace: "pre-wrap" }}>
+                <p className="" style={{ whiteSpace: 'pre-wrap' }}>
                   Finally settling in Seattle she has been able to jump back
                   into fashion working for various categories in Nordstrom. She
-                  has worked in women's woven's and kid's big girl customer.
-                  With the big girl customer she was able to expand her
-                  knowledge in sweaters, denim, cut and sew knits, and woven's.
+                  has worked in women&apos;s woven&apos;s and kid&apos;s big
+                  girl customer. With the big girl customer she was able to
+                  expand her knowledge in sweaters, denim, cut and sew knits,
+                  and woven&apos;s.
                 </p>
-                <p className="" style={{ whiteSpace: "pre-wrap" }}>
+                <p className="" style={{ whiteSpace: 'pre-wrap' }}>
                   Lindsey is currently working remote and would like the
                   opportunity to work remote full time. Lindsey is starting to
                   learn 3D to further the remote life balance.
@@ -123,5 +124,5 @@ export default function Home() {
         </div>
       </div>
     </section>
-  );
+  )
 }

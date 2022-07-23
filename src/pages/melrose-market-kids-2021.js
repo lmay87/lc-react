@@ -16,10 +16,10 @@ export default function MelroseMarketKids2021() {
         />
         <meta property="og:url" content="/melrose-market-kids-2021" />
         <meta
-          itemprop="name"
+          itemProp="name"
           content="MELROSE &amp; MARKET KIDS 2021 — Lindsey Carrillo Design Portfolio"
         />
-        <meta itemprop="url" content="/melrose-market-kids-2021" />
+        <meta itemProp="url" content="/melrose-market-kids-2021" />
         <meta
           name="twitter:title"
           content="MELROSE &amp; MARKET KIDS 2021 — Lindsey Carrillo Design Portfolio"

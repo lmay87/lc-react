@@ -1,7 +1,7 @@
-import Head from "next/head";
+import Head from 'next/head'
 
-import Header from "./header/header";
-import Footer from "./footer/footer";
+import Header from './header/header'
+import Footer from './footer/footer'
 
 const AppLayout = ({ children }) => {
   return (
@@ -24,13 +24,13 @@ const AppLayout = ({ children }) => {
       <div id="site">
         <div id="canvas">
           <Header />
-          <div id="pageWrapper" class="hfeed" role="main">
+          <div id="pageWrapper" className="hfeed" role="main">
             {children}
           </div>
           <Footer />
         </div>
       </div>
     </div>
-  );
-};
-export default AppLayout;
+  )
+}
+export default AppLayout

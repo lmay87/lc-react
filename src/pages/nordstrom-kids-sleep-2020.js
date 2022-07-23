@@ -14,10 +14,10 @@ export default function NordstromKidsSleep2020() {
         />
         <meta property="og:url" content="/nordstrom-kids-sleep-2020" />
         <meta
-          itemprop="name"
+          itemProp="name"
           content="NORDSTROM KIDS SLEEP 2020 — Lindsey Carrillo Design Portfolio"
         />
-        <meta itemprop="url" content="/nordstrom-kids-sleep-2020" />
+        <meta itemProp="url" content="/nordstrom-kids-sleep-2020" />
         <meta
           name="twitter:title"
           content="NORDSTROM KIDS SLEEP 2020 — Lindsey Carrillo Design Portfolio"

@@ -1,6 +1,6 @@
-import Head from "next/head";
+import Head from 'next/head'
 
-import CustomPage from "../components/custom-page/custom-page";
+import CustomPage from '../components/custom-page/custom-page'
 
 export default function TreasureBond2020() {
   return (
@@ -15,10 +15,10 @@ export default function TreasureBond2020() {
         />
         <meta property="og:url" content="/treasure-bond-2020" />
         <meta
-          itemprop="name"
+          itemProp="name"
           content="TREASURE &amp; BOND 2020 — Lindsey Carrillo Design Portfolio"
         />
-        <meta itemprop="url" content="/treasure-bond-2020" />
+        <meta itemProp="url" content="/treasure-bond-2020" />
         <meta
           name="twitter:title"
           content="TREASURE &amp; BOND 2020 — Lindsey Carrillo Design Portfolio"
@@ -28,34 +28,34 @@ export default function TreasureBond2020() {
       <CustomPage
         imageList={[
           {
-            src: "/assets/images/treasure-bond-2020/treasure-bond-1.jpg",
+            src: '/assets/images/treasure-bond-2020/treasure-bond-1.jpg',
           },
           {
-            src: "/assets/images/treasure-bond-2020/treasure-bond-2.jpg",
+            src: '/assets/images/treasure-bond-2020/treasure-bond-2.jpg',
           },
           {
-            src: "/assets/images/treasure-bond-2020/treasure-bond-3.jpg",
+            src: '/assets/images/treasure-bond-2020/treasure-bond-3.jpg',
           },
           {
-            src: "/assets/images/treasure-bond-2020/treasure-bond-4.jpg",
+            src: '/assets/images/treasure-bond-2020/treasure-bond-4.jpg',
           },
           {
-            src: "/assets/images/treasure-bond-2020/treasure-bond-5.jpg",
+            src: '/assets/images/treasure-bond-2020/treasure-bond-5.jpg',
           },
           {
-            src: "/assets/images/treasure-bond-2020/treasure-bond-6.jpg",
+            src: '/assets/images/treasure-bond-2020/treasure-bond-6.jpg',
           },
           {
-            src: "/assets/images/treasure-bond-2020/treasure-bond-7.jpg",
+            src: '/assets/images/treasure-bond-2020/treasure-bond-7.jpg',
           },
           {
-            src: "/assets/images/treasure-bond-2020/treasure-bond-8.jpg",
+            src: '/assets/images/treasure-bond-2020/treasure-bond-8.jpg',
           },
           {
-            src: "/assets/images/treasure-bond-2020/treasure-bond-9.jpg",
+            src: '/assets/images/treasure-bond-2020/treasure-bond-9.jpg',
           },
         ]}
       />
     </section>
-  );
+  )
 }

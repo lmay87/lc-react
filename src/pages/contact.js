@@ -1,4 +1,4 @@
-import Head from "next/head";
+import Head from 'next/head'
 
 export default function KidsSwin() {
   return (
@@ -11,10 +11,10 @@ export default function KidsSwin() {
         />
         <meta property="og:url" content="/contact" />
         <meta
-          itemprop="name"
+          itemProp="name"
           content="Contact — Lindsey Carrillo Design Portfolio"
         />
-        <meta itemprop="url" content="/contact" />
+        <meta itemProp="url" content="/contact" />
         <meta
           name="twitter:title"
           content="Contact — Lindsey Carrillo Design Portfolio"
@@ -22,14 +22,14 @@ export default function KidsSwin() {
         <meta name="twitter:url" content="/contact" />
       </Head>
 
-      <div class="sqs-layout sqs-grid-12 columns-12">
-        <div class="row sqs-row">
-          <div class="col sqs-col-12 span-12">
+      <div className="sqs-layout sqs-grid-12 columns-12">
+        <div className="row sqs-row">
+          <div className="col sqs-col-12 span-12">
             <div
-              class="sqs-block html-block sqs-block-html"
+              className="sqs-block html-block sqs-block-html"
               id="block-5774b4c92994ca360595b447"
             >
-              <div class="sqs-block-content">
+              <div className="sqs-block-content">
                 <p>Phone. &nbsp;(586)872-6435</p>
                 <p>Email. &nbsp; &nbsp;lindsey.carrillo@outlook.com</p>
               </div>
@@ -38,5 +38,5 @@ export default function KidsSwin() {
         </div>
       </div>
     </section>
-  );
+  )
 }

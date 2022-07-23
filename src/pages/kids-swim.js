@@ -1,6 +1,6 @@
-import Head from "next/head";
+import Head from 'next/head'
 
-import CustomPage from "../components/custom-page/custom-page";
+import CustomPage from '../components/custom-page/custom-page'
 
 export default function KidsSwin() {
   return (
@@ -13,10 +13,10 @@ export default function KidsSwin() {
         />
         <meta property="og:url" content="/kids-swim" />
         <meta
-          itemprop="name"
+          itemProp="name"
           content="KIDS SWIM — Lindsey Carrillo Design Portfolio"
         />
-        <meta itemprop="url" content="/kids-swim" />
+        <meta itemProp="url" content="/kids-swim" />
         <meta
           name="twitter:title"
           content="KIDS SWIM — Lindsey Carrillo Design Portfolio"
@@ -26,19 +26,19 @@ export default function KidsSwin() {
       <CustomPage
         imageList={[
           {
-            src: "/assets/images/kids-swim/bg+swim.jpg",
+            src: '/assets/images/kids-swim/bg+swim.jpg',
           },
           {
-            src: "/assets/images/kids-swim/little+girl+swim.jpg",
+            src: '/assets/images/kids-swim/little+girl+swim.jpg',
           },
           {
-            src: "/assets/images/kids-swim/off+price+swim.jpg",
+            src: '/assets/images/kids-swim/off+price+swim.jpg',
           },
           {
-            src: "/assets/images/kids-swim/baby+swim.jpg",
+            src: '/assets/images/kids-swim/baby+swim.jpg',
           },
         ]}
       />
     </section>
-  );
+  )
 }
