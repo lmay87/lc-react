@@ -1,0 +1,151 @@
+/* modal */
+.slider-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.9);
+  z-index: 1055;
+}
+
+.slider-modal.model-visible {
+  visibility: visible;
+}
+
+.slider-modal.model-hidden {
+  visibility: hidden;
+}
+
+.btn-close {
+  padding: 2px;
+  right: 2%;
+  top: 2%;
+  text-align: right;
+  background: none;
+  position: absolute;
+  z-index: 100000002;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #111;
+  height: 20px;
+  width: 20px;
+  font-size: 26px;
+  cursor: pointer;
+  outline-color: currentColor;
+}
+
+.btn-close:before {
+  font-family: "squarespace-ui-font";
+  font-style: normal;
+  speak: none;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  content: "\E02E";
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.btn-close:before {
+  font-size: 32px;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+}
+
+/* slick */
+.slick-slider {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.step {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  display: flex !important;
+  overflow: auto;
+}
+
+.slick-prev,
+.slick-next {
+  position: absolute;
+  z-index: 100000002;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #111;
+  height: 20px;
+  width: 20px;
+  font-size: 26px;
+  cursor: pointer;
+  outline-color: currentColor;
+}
+
+.slick-next.mouseover,
+.slick-prev.mouseover,
+.slick-next:focus,
+.slick-prev:focus {
+  opacity: 1;
+}
+.slick-next {
+  right: 2%;
+}
+.slick-next:before {
+  font-family: "squarespace-ui-font";
+  font-style: normal;
+  speak: none;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  content: "\E02D";
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+}
+.slick-next:before {
+  font-size: 32px;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+}
+.slick-prev {
+  left: 2%;
+}
+.slick-prev:before {
+  font-family: "squarespace-ui-font";
+  font-style: normal;
+  speak: none;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  content: "\E02C";
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+}
+.slick-prev:before {
+  font-size: 32px;
+  width: 32px;
+  height: 32px;
+  line-height: 32px;
+}
+.slick-next::before,
+.slick-prev::before {
+  font-size: 22px;
+}
+
+.slick-list {
+  width: 100%;
+}
+
+.slick-slide img {
+}
+
+.image-single {
+  width: 33.33%;
+  float: left;
+  object-fit: cover;
+}
