@@ -1,16 +1,16 @@
-import { useRouter } from "next/router";
+import { useRouter } from 'next/router'
 
-import Link from "next/link";
-import NavLink from "../../components/links/nav-link/nav-link";
-import Option from "../../components/options/option";
+import Link from 'next/link'
+import NavLink from '../../components/links/nav-link/nav-link'
+import Option from '../../components/options/option'
 
 const Header = () => {
-  const router = useRouter();
+  const router = useRouter()
 
   const onSubNavChange = (e) => {
-    e.preventDefault();
-    router.push(e.target.value);
-  };
+    e.preventDefault()
+    router.push(e.target.value)
+  }
   return (
     <div id="headerWrapper">
       <header id="header">
@@ -34,8 +34,8 @@ const Header = () => {
                 <NavLink
                   label="KIDS SPECIALZED"
                   hrefChild={[
-                    { href: "/kids-swim" },
-                    { href: "/ordstrom-kids-sleep-2020" },
+                    { href: '/kids-swim' },
+                    { href: '/ordstrom-kids-sleep-2020' },
                   ]}
                   className="folder-collection folder"
                   href=""
@@ -54,9 +54,9 @@ const Header = () => {
                 <NavLink
                   label="WOMENS APPAREL DESIGN WORK"
                   hrefChild={[
-                    { href: "/designer-project" },
-                    { href: "/chelsea-28" },
-                    { href: "/treasure-bond-2020" },
+                    { href: '/designer-project' },
+                    { href: '/chelsea-28' },
+                    { href: '/treasure-bond-2020' },
                   ]}
                   className="folder-collection folder"
                   href=""
@@ -80,11 +80,13 @@ const Header = () => {
                 <NavLink
                   label="KIDS APPAREL DESIGN WORK"
                   hrefChild={[
-                    { href: "/treasure-bond-kids-2021" },
-                    { href: "/nordstrom-big-girl-2021" },
-                    { href: "/nordstrom-swim-2021" },
-                    { href: "/melrose-market-kids-2021" },
-                    { href: "/associate-kids-designer-project" },
+                    { href: '/treasure-bond-kids-2021' },
+                    { href: '/nordstrom-big-girl-2021' },
+                    { href: '/nordstrom-swim-2021' },
+                    { href: '/melrose-market-kids-2021' },
+                    { href: '/nordstrom-2022' },
+                    { href: '/treasure-bond-2022' },
+                    { href: '/associate-kids-designer-project' },
                   ]}
                   className="folder-collection folder"
                   href=""
@@ -110,6 +112,16 @@ const Header = () => {
                     href="/melrose-market-kids-2021"
                   />
                   <NavLink
+                    label="NORDSTROM 2022"
+                    className="gallery-collection"
+                    href="/nordstrom-2022"
+                  />
+                  <NavLink
+                    label="TREASURE &amp; BOND 2022"
+                    className="gallery-collection"
+                    href="/treasure-bond-2022"
+                  />
+                  <NavLink
                     label="ASSOCIATE KIDS DESIGNER PROJECT"
                     className="gallery-collection"
                     href="/associate-kids-designer-project"
@@ -118,7 +130,7 @@ const Header = () => {
                 <NavLink label="About" className="page-collection" href="/" />
                 <NavLink
                   label="Contact"
-                  hrefChild={[{ href: "/contact" }]}
+                  hrefChild={[{ href: '/contact' }]}
                   className="folder-collection folder"
                   href=""
                 >
@@ -191,13 +203,23 @@ const Header = () => {
                     href="/melrose-market-kids-2021"
                   />
                   <Option
+                    label="NORDSTROM 2022"
+                    className="gallery-collection"
+                    href="/nordstrom-2022"
+                  />
+                  <Option
+                    label="TREASURE &amp; BOND 2022"
+                    className="gallery-collection"
+                    href="/treasure-bond-2022"
+                  />
+                  <Option
                     label="ASSOCIATE KIDS DESIGNER PROJECT"
                     className="gallery-collection"
                     href="/associate-kids-designer-project"
                   />
                 </optgroup>
 
-                <Option label="About" className="page-collection" href="/" />
+                {/* <Option label="About" className="page-collection" href="/" /> */}
 
                 <optgroup label="Contact">
                   Contact
@@ -213,6 +235,6 @@ const Header = () => {
         </div>
       </header>
     </div>
-  );
-};
-export default Header;
+  )
+}
+export default Header
