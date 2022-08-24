@@ -13,10 +13,10 @@ export default function Nordstrom2022() {
         />
         <meta property="og:url" content="/nordstrom-2022" />
         <meta
-          itemprop="name"
+          itemProp="name"
           content="NORDSTROM 2022 — Lindsey Carrillo Design Portfolio"
         />
-        <meta itemprop="url" content="/nordstrom-2022" />
+        <meta itemProp="url" content="/nordstrom-2022" />
         <meta
           name="twitter:title"
           content="NORDSTROM 2022 — Lindsey Carrillo Design Portfolio"

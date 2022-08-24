@@ -15,10 +15,10 @@ export default function TreasureBond2022() {
         />
         <meta property="og:url" content="/treasure-bond-2022" />
         <meta
-          itemprop="name"
+          itemProp="name"
           content="TREASURE &amp; BOND 2022 — Lindsey Carrillo Design Portfolio"
         />
-        <meta itemprop="url" content="/treasure-bond-2022" />
+        <meta itemProp="url" content="/treasure-bond-2022" />
         <meta
           name="twitter:title"
           content="TREASURE &amp; BOND 2022 — Lindsey Carrillo Design Portfolio"
