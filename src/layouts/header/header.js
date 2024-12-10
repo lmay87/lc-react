@@ -1,4 +1,4 @@
-import { useRouter } from 'next/router'
+ import { useRouter } from 'next/router'
 
 import Link from 'next/link'
 import NavLink from '../../components/links/nav-link/nav-link'
@@ -20,7 +20,7 @@ const Header = () => {
               <a title="Lindsey Carrillo Design Portfolio" role="bookmark">
                 <span className="placed-logo-image">
                   <img
-                    src="/assets/header.png?format=1500w"
+                    src="/assets/LC726f7.png?format=1500w"
                     alt="Lindsey Carrillo Design Portfolio"
                   />
                 </span>
