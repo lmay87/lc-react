@@ -1,4 +1,4 @@
-import { useRef, useState, useEffect } from 'react';
+ import { useRef, useState, useEffect } from 'react';
 import Slider from 'react-slick';
 
 function getWindowDimensions() {
