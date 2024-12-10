@@ -114,9 +114,7 @@ export default function Home() {
                   and woven&apos;s.
                 </p>
                 <p className="" style={{ whiteSpace: 'pre-wrap' }}>
-                  Lindsey is currently working remote and would like the
-                  opportunity to work remote full time. Lindsey is starting to
-                  learn 3D to further the remote life balance.
+                  Lindsey is currently working for Buffbunny Collection as a Senior Designer.
                 </p>
               </div>
             </div>
