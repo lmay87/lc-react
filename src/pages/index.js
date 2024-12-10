@@ -1,4 +1,4 @@
-import Head from 'next/head'
+import Head from 'next/head';
 
 export default function Home() {
   return (
@@ -16,113 +16,160 @@ export default function Home() {
         <meta name="twitter:url" content="/" />
       </Head>
 
-      <div
-        className="sqs-layout sqs-grid-12 columns-12"
-        id="page-5774aec5579fb3507cbc0ae8"
-      >
-        <div className="sqs-row">
-          <div className="sqs-col-12 span-12">
-            <div
-              className="sqs-block image-block sqs-block-image"
-              id="block-yui_3_17_2_1_1643831983894_2442"
-            >
-              <div className="sqs-block-content">
-                <div
-                  className="
-                      image-block-outer-wrapper
-                      layout-caption-below
-                      design-layout-inline
-                      combination-animation-none
-                      individual-animation-none
-                      individual-text-animation-none
-                    "
-                >
-                  <figure
-                    className="
-                        sqs-block-image-figure
-                        intrinsic
-                      "
-                    style={{ maxWidth: '1148px' }}
-                  >
-                    <div className="image-block-wrapper">
-                      <div
-                        className="sqs-image-shape-container-elementhas-aspect-ratio"
-                        style={{
-                          position: 'relative',
-                          paddingBottom: '48.125%',
-                          overflow: 'hidden',
-                        }}
-                      >
-                        <img
-                          className="thumb-image"
-                          src="/assets/TB+DESIGNER+PROJECT+2.jpg"
-                          alt=""
-                        />
-                      </div>
-                    </div>
-                  </figure>
+      <div className="sqs-layout sqs-grid-12 columns-12" id="page-content">
+        {/* Hero Section */}
+        <div className="hero-section">
+          <figure style={{ maxWidth: '1148px', margin: '0 auto' }}>
+            <img
+              className="thumb-image"
+              src="/assets/TB+DESIGNER+PROJECT+2.jpg"
+              alt="Portfolio Highlight - Lindsey Carrillo"
+              style={{ width: '100%', borderRadius: '10px' }}
+            />
+          </figure>
+        </div>
+
+        {/* Spacer */}
+        <div className="spacer" style={{ height: '10px' }}></div>
+
+        {/* About Section */}
+        <div className="about-section">
+          <h1 className="about-header">About</h1>
+          <div className="about-content">
+            <p>
+            Lindsey Carrillo began her career as a fashion designer and has since evolved into a creative professional excelling in graphic and apparel design. Below is a timeline of her journey.
+            </p>
+
+            {/* Timeline Section */}
+            <div className="timeline">
+              <div className="timeline-item">
+                <div className="timeline-date">2008 - 2011</div>
+                <div className="timeline-content">
+                  <h3>Fashion Designer</h3>
+                  <p>Worked at 600 West, managing designs and production processes.</p>
+                </div>
+              </div>
+              <div className="timeline-item">
+                <div className="timeline-date">2012 - 2014</div>
+                <div className="timeline-content">
+                  <h3>Custom Design Specialist</h3>
+                  <p>Created custom clothing and wedding gowns at Mira Couture.</p>
+                </div>
+              </div>
+              <div className="timeline-item">
+                <div className="timeline-date">2015 - 2017</div>
+                <div className="timeline-content">
+                  <h3>Graphic Designer</h3>
+                  <p>Joined CGG Veritas, focusing on branding and digital design.</p>
+                </div>
+              </div>
+              <div className="timeline-item">
+                <div className="timeline-date">2018 - Present</div>
+                <div className="timeline-content">
+                  <h3>Nordstrom Designer</h3>
+                  <p>
+                    Specializing in women’s and children’s apparel, expanding
+                    expertise in sweaters, denim, and woven designs.
+                  </p>
                 </div>
               </div>
             </div>
           </div>
         </div>
-        <div className="sqs-row">
-          <div className="sqs-col-1 span-1">
-            <div
-              className="sqs-block spacer-block sqs-block-spacer sized vsize-1"
-              id="block-yui_3_17_2_17_1456775463444_9098"
-            >
-              <div className="sqs-block-content">&nbsp;</div>
-            </div>
-          </div>
-          <div className="sqs-col-11 span-11">
-            <div
-              className="sqs-block html-block sqs-block-html"
-              id="block-c0eeab3406aeedffcf42"
-            >
-              <div className="sqs-block-content">
-                <h1 style={{ whiteSpace: 'pre-wrap' }}>About</h1>
-                <p className="" style={{ whiteSpace: 'pre-wrap' }}>
-                  &nbsp;Lindsey Carrillo started out her career as a fashion
-                  designer. First working for 600 West as an Associate Assistant
-                  Designer. 600 West at the time was a missy fit line,
-                  manufactured in China, Turkey, and India. Lindsey had to
-                  assist in all aspects of production from designs, fabric
-                  sourcing, spec sheets, line sheets, look book styling and much
-                  more.
-                </p>
-                <p className="" style={{ whiteSpace: 'pre-wrap' }}>
-                  Wanting to learn more about the fashion world, Lindsey then
-                  starting working for Mira Couture. There she designed custom
-                  clothing, and wedding gowns. She was in charge of design,
-                  fabric and notion sourcing, pattern making, fit, and customer
-                  relations.
-                </p>
-                <p className="" style={{ whiteSpace: 'pre-wrap' }}>
-                  Moving to Texas was an expected &nbsp;turn in life but Lindsey
-                  took full advantage by going back to college to learn Graphic
-                  Design. That is when she started working for the oil and gas
-                  company, CGG Veritas. She worked as a graphic designer in the
-                  creative department.&nbsp;
-                </p>
-                <p className="" style={{ whiteSpace: 'pre-wrap' }}>
-                  Finally settling in Seattle she has been able to jump back
-                  into fashion working for various categories in Nordstrom. She
-                  has worked in women&apos;s woven&apos;s and kid&apos;s big
-                  girl customer. With the big girl customer she was able to
-                  expand her knowledge in sweaters, denim, cut and sew knits,
-                  and woven&apos;s.
-                </p>
-                <p className="" style={{ whiteSpace: 'pre-wrap' }}>
-                  Lindsey is currently working remote and would like the
-                  opportunity to work remote full time. Lindsey is starting to
-                  learn 3D to further the remote life balance.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
+
+      <style jsx>{`
+        #page-content {
+          padding: 20px;
+        }
+
+        .hero-section {
+          text-align: center;
+        }
+
+        .about-header {
+          font-size: 2.5rem;
+          font-family: "Playfair Display", serif;
+          color: #222;
+          text-align: center;
+          margin-bottom: 20px;
+        }
+
+        .about-section {
+          background: rgba(255, 255, 255, 0.9);
+          backdrop-filter: blur(15px);
+          padding: 60px 20px;
+          margin: 60px auto;
+          max-width: 800px;
+          border-radius: 15px;
+          box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .about-content p {
+          font-size: 1.1rem;
+          line-height: 1.8;
+          color: #444;
+          margin-bottom: 20px;
+        }
+
+        /* Timeline Styles */
+        .timeline {
+          position: relative;
+          margin: 40px 0;
+          padding: 0;
+          list-style: none;
+        }
+
+        .timeline-item {
+          position: relative;
+          margin-bottom: 20px;
+          padding-left: 40px;
+        }
+
+        .timeline-item::before {
+          content: "";
+          position: absolute;
+          top: 10px;
+          left: 20px;
+          width: 10px;
+          height: 10px;
+          background: #007acc;
+          border-radius: 50%;
+        }
+
+        .timeline-item::after {
+          content: "";
+          position: absolute;
+          top: 0;
+          left: 24px;
+          width: 2px;
+          height: 100%;
+          background: #e0e0e0;
+        }
+
+        .timeline-date {
+          font-weight: bold;
+          color: #666;
+          margin-bottom: 5px;
+        }
+
+        .timeline-content h3 {
+          margin: 0;
+          font-size: 1.2rem;
+          color: #222;
+        }
+
+        .timeline-content p {
+          margin: 5px 0 0;
+          font-size: 0.9rem;
+          line-height: 1.5;
+          color: #555;
+        }
+
+        .timeline-item:last-child::after {
+          content: none;
+        }
+      `}</style>
     </section>
-  )
+  );
 }
