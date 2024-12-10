@@ -1,59 +1,59 @@
-import { useRef, useState, useEffect } from 'react'
-import Slider from 'react-slick'
+import { useRef, useState, useEffect } from 'react';
+import Slider from 'react-slick';
 
 function getWindowDimensions() {
-  const { innerWidth: width, innerHeight: height } = window
+  const { innerWidth: width, innerHeight: height } = window;
   return {
     width,
     height,
-  }
+  };
 }
 
 function useWindowDimensions() {
   const [windowDimensions, setWindowDimensions] = useState({
     width: 0,
     height: 0,
-  })
+  });
 
   useEffect(() => {
-    setWindowDimensions(getWindowDimensions())
-  }, [])
+    setWindowDimensions(getWindowDimensions());
+  }, []);
 
   useEffect(() => {
     function handleResize() {
-      setWindowDimensions(getWindowDimensions())
+      setWindowDimensions(getWindowDimensions());
     }
 
-    window.addEventListener('resize', handleResize)
-    return () => window.removeEventListener('resize', handleResize)
-  }, [])
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
 
-  return windowDimensions
+  return windowDimensions;
 }
 
 function CustomNextArrow(props) {
-  const { className, style, onClick } = props
-  return <div className="slick-prev" onClick={onClick}></div>
+  const { className, style, onClick } = props;
+  return <div className="slick-prev" onClick={onClick}></div>;
 }
 
 function CustomPrevArrow(props) {
-  const { className, style, onClick } = props
-  return <div className="slick-next" onClick={onClick}></div>
+  const { className, style, onClick } = props;
+  return <div className="slick-next" onClick={onClick}></div>;
 }
 
 const CustomPage = ({ imageList }) => {
-  const slideRef = useRef(null)
-  const [show, setShow] = useState(false)
-  const { height, width } = useWindowDimensions()
+  const slideRef = useRef(null);
+  const [show, setShow] = useState(false);
+  const { height, width } = useWindowDimensions();
 
   const handleClick = (key) => {
-    slideRef.current?.slickGoTo(key)
-    setShow(true)
-  }
+    slideRef.current?.slickGoTo(key);
+    setShow(true);
+  };
 
   const goToNext = () => {
-    slideRef.current?.slickNext()
-  }
+    slideRef.current?.slickNext();
+  };
 
   const settings = {
     dots: false,
@@ -64,10 +64,11 @@ const CustomPage = ({ imageList }) => {
     slidesToScroll: 1,
     nextArrow: <CustomNextArrow />,
     prevArrow: <CustomPrevArrow />,
-  }
+  };
 
   return (
-    <div className="">
+    <div>
+      {/* Image Grid */}
       <div className="row">
         {imageList.map((data, index) => (
           <div
@@ -76,13 +77,16 @@ const CustomPage = ({ imageList }) => {
             className="col-12 col-md-6 col-lg-4"
             style={{ cursor: 'pointer' }}
           >
-            <img style={{ width: '100%' }} src={data.src} alt="" />
+            {/* Wrapper div for hover effect */}
+            <div className="image-wrapper">
+              <img style={{ width: '100%' }} src={data.src} alt={`Image ${index + 1}`} />
+            </div>
           </div>
         ))}
       </div>
-      <div
-        className={`slider-modal ${show ? 'model-visible' : 'model-hidden'}`}
-      >
+
+      {/* Modal Slider */}
+      <div className={`slider-modal ${show ? 'model-visible' : 'model-hidden'}`}>
         <div className="btn-close" onClick={() => setShow(false)}></div>
         <Slider ref={slideRef} {...settings}>
           {imageList.map((image, index) => (
@@ -101,7 +105,7 @@ const CustomPage = ({ imageList }) => {
                     margin: 'auto',
                     width: width > 990 ? 'auto' : '100%',
                   }}
-                  alt=""
+                  alt={`Modal Image ${index + 1}`}
                 />
               </div>
             </div>
@@ -109,6 +113,7 @@ const CustomPage = ({ imageList }) => {
         </Slider>
       </div>
     </div>
-  )
-}
-export default CustomPage
+  );
+};
+
+export default CustomPage;
