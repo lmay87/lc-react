@@ -1,4 +1,4 @@
- import Head from 'next/head';
+import Head from 'next/head';
 
 export default function Home() {
   return (
@@ -22,7 +22,7 @@ export default function Home() {
           <figure style={{ maxWidth: '1148px', margin: '0 auto' }}>
             <img
               className="thumb-image"
-              src="/assets/cover.png"
+              src="/assets/TB+DESIGNER+PROJECT+2.jpg"
               alt="Portfolio Highlight - Lindsey Carrillo"
               style={{ width: '100%', borderRadius: '10px' }}
             />
@@ -36,16 +36,23 @@ export default function Home() {
         <div className="about-section">
           <h1 className="about-header">About</h1>
           <div className="about-content">
-  <P>With a career spanning multiple facets of the fashion and design industries, Lindsey Carrillo is a seasoned designer who brings a blend of creativity, technical skill, and versatility to every project. From her early days at 600 West, where she honed her craft in design, production, and sourcing for a global market, to her later roles in custom couture and graphic design, Lindsey has continually sought opportunities to expand her knowledge and expertise in both fashion and visual communication.
-</P>
-<P>Her journey began as an Associate Assistant Designer at 600 West, a missy fit line, where she was immersed in all aspects of the production process—from sketching initial concepts to finalizing spec sheets and managing look book styling. Driven by a desire to deepen her understanding of design, Lindsey moved to Mira Couture, where she designed custom clothing and bridal gowns. Here, she was not only responsible for designing and sourcing fabrics, but also for pattern making, fitting, and building lasting relationships with clients.
-</P>
-<P>A move to Texas marked an unexpected but transformative turn in Lindsey’s career. While there, she expanded her skill set by pursuing a degree in Graphic Design, and worked as a graphic designer for CGG Veritas, an oil and gas company. This experience sharpened her creative and conceptual thinking, and broadened her design knowledge across different industries.
-</P>
-<P>Lindsey eventually relocated to Seattle, where she returned to her fashion roots. At Nordstrom, she gained further expertise working across multiple categories, including women's woven’s and kids’ apparel. Her role in designing for the "big girl" customer allowed her to work with a diverse range of fabrics and silhouettes, including sweaters, denim, cut-and-sew knits, and woven garments.
-</P>
-<P>Today, Lindsey is a Senior Designer at Buffbunny Collection, where she combines her extensive fashion background with her passion for creating innovative, high-performance activewear. Her journey has been shaped by a constant drive to learn, grow, and push the boundaries of design, all while maintaining a deep respect for quality, craftsmanship, and the power of storytelling through fashion.
-</P>
+           <p>
+With a career spanning multiple facets of the fashion and design industries, Lindsey Carrillo is a seasoned designer who brings a blend of creativity, technical skill, and versatility to every project. From her early days at 600 West, where she honed her craft in design, production, and sourcing for a global market, to her later roles in custom couture and graphic design, Lindsey has continually sought opportunities to expand her knowledge and expertise in both fashion and visual communication.
+</p>
+<p>
+Her journey began as an Associate Assistant Designer at 600 West, a missy fit line, where she was immersed in all aspects of the production process—from sketching initial concepts to finalizing spec sheets and managing look book styling. Driven by a desire to deepen her understanding of design, Lindsey moved to Mira Couture, where she designed custom clothing and bridal gowns. Here, she was not only responsible for designing and sourcing fabrics, but also for pattern making, fitting, and building lasting relationships with clients.
+</p>
+<p>
+A move to Texas marked an unexpected but transformative turn in Lindsey’s career. While there, she expanded her skill set by pursuing a degree in Graphic Design, and worked as a graphic designer for CGG Veritas, an oil and gas company. This experience sharpened her creative and conceptual thinking, and broadened her design knowledge across different industries.
+</p>
+<p>
+Lindsey eventually relocated to Seattle, where she returned to her fashion roots. At Nordstrom, she gained further expertise working across multiple categories, including women's woven’s and kids’ apparel. Her role in designing for the "big girl" customer allowed her to work with a diverse range of fabrics and silhouettes, including sweaters, denim, cut-and-sew knits, and woven garments.
+</p>
+<p>
+Today, Lindsey is a Senior Designer at Buffbunny Collection, where she combines her extensive fashion background with her passion for creating innovative, high-performance activewear. Her journey has been shaped by a constant drive to learn, grow, and push the boundaries of design, all while maintaining a deep respect for quality, craftsmanship, and the power of storytelling through fashion.
+</p>
+
+
             {/* Timeline Section */}
             <div className="timeline">
               <div className="timeline-item">
