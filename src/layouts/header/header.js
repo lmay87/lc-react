@@ -31,6 +31,36 @@ const Header = () => {
           <div id="navBlock" role="navigation">
             <nav className="main-nav">
               <ul>
+              <NavLink
+                  label="ACTIVEWEAR"
+                  hrefChild={[
+                    { href: '/kids-swim' },
+                    { href: '/ordstrom-kids-sleep-2020' },
+                  ]}
+                  className="folder-collection folder"
+                  href=""
+                >
+                  <NavLink
+                    label="NO FILTER"
+                    className="gallery-collection"
+                    href="/kids-swim"
+                  />
+                  <NavLink
+                    label="GIRLFRIEND"
+                    className="gallery-collection"
+                    href="/nordstrom-kids-sleep-2020"
+                  />
+                  <NavLink
+                    label="BUFF PUPS"
+                    className="gallery-collection"
+                    href="/buff-pups"
+                  />
+                  <NavLink
+                    label="BUTTER"
+                    className="gallery-collection"
+                    href="/nordstrom-kids-sleep-2020"
+                  />
+                </NavLink>
                 <NavLink
                   label="KIDS SPECIALZED"
                   hrefChild={[
