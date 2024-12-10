@@ -149,3 +149,24 @@
   float: left;
   object-fit: cover;
 }
+
+/* Wrapper for the images in the grid */
+.image-wrapper {
+  overflow: hidden; /* Ensures the zoomed image stays within its bounds */
+}
+
+/* Smooth transition for zoom effect */
+.image-wrapper img {
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Zoom effect on hover */
+.image-wrapper img:hover {
+  transform: scale(1.2);
+}
+
+/* Prevent zoom effect on modal images */
+.slider-modal img {
+  transition: none;
+}
+
