@@ -22,7 +22,7 @@ export default function Home() {
           <figure style={{ maxWidth: '1148px', margin: '0 auto' }}>
             <img
               className="thumb-image"
-              src="/assets/TB+DESIGNER+PROJECT+2.jpg"
+              src="/assets/cover.png"
               alt="Portfolio Highlight - Lindsey Carrillo"
               style={{ width: '100%', borderRadius: '10px' }}
             />
