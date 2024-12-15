@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import CustomPage from '../components/custom-page/custom-page'
 
-export default function BuffPups() {
+export default function NoFilter() {
   return (
     <section id="page">
       <Head>
