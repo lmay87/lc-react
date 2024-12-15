@@ -43,12 +43,12 @@ const Header = () => {
                   <NavLink
                     label="NO FILTER"
                     className="gallery-collection"
-                    href="/kids-swim"
+                    href="/no-filter"
                   />
                   <NavLink
                     label="GIRLFRIEND"
                     className="gallery-collection"
-                    href="/nordstrom-kids-sleep-2020"
+                    href="/girlfriend"
                   />
                   <NavLink
                     label="BUFF PUPS"
@@ -58,7 +58,7 @@ const Header = () => {
                   <NavLink
                     label="BUTTER"
                     className="gallery-collection"
-                    href="/nordstrom-kids-sleep-2020"
+                    href="/butter"
                   />
                 </NavLink>
                 <NavLink
