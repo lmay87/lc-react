@@ -32,7 +32,7 @@ const Header = () => {
             <nav className="main-nav">
               <ul>
               <NavLink
-                  label="ACTIVEWEAR2"
+                  label="ACTIVEWEAR"
                   hrefChild={[
                     { href: '/kids-swim' },
                     { href: '/ordstrom-kids-sleep-2020' },
@@ -71,7 +71,7 @@ const Header = () => {
                     href="/deadlift"
                   />
                      <NavLink
-                    label="ZSNACK"
+                    label="SNACK"
                     className="gallery-collection"
                     href="/snack"
                   />
