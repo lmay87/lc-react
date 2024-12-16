@@ -24,7 +24,7 @@ const AppLayout = ({ children }) => {
       <div id="site">
         <div id="canvas">
           <Header />
-          <div id="pageWrapper" className="hfeed" role="main">
+          <div id="pageWrapper" className="hfeed" role="main" >
             {children}
           </div>
           <Footer />
