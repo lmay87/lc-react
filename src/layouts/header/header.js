@@ -192,6 +192,44 @@ const Header = () => {
                 id="mobileSelect"
                 name="mobileSelect"
               >
+                   <optgroup label="ACTIVEWEAR">
+                   ACTIVEWEAR
+                  <Option
+                    label="BUFF PUPS"
+                    className="gallery-collection"
+                    href="/buff-pups"
+                  />
+                  <Option
+                    label="BUTTER"
+                    className="gallery-collection"
+                    href="/butter"
+                  />
+                   <Option
+                    label="DEADLIFT"
+                    className="gallery-collection"
+                    href="/deadlift"
+                  />
+                  <Option
+                    label="GIRLFRIEND"
+                    className="gallery-collection"
+                    href="/girlfriend"
+                  />
+                   <Option
+                    label="JUICY"
+                    className="gallery-collection"
+                    href="/juicy"
+                  />
+                   <Option
+                    label="NO FILTER"
+                    className="gallery-collection"
+                    href="/no-filter"
+                  />
+                   <Option
+                    label="SNACK"
+                    className="gallery-collection"
+                    href="/snack"
+                  />
+                </optgroup>
                 <optgroup label="KIDS SPECIALZED">
                   KIDS SPECIALZED
                   <Option
