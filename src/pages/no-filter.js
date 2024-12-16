@@ -28,207 +28,207 @@ export default function NoFilter() {
         imageList={[
           {
             src:
-              '/assets/images/no-filter/no-filter-1.jpg',
+              '/assets/images/no-filter/no-filter-1.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-2.jpg',
+              '/assets/images/no-filter/no-filter-2.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-3.jpg',
+              '/assets/images/no-filter/no-filter-3.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-4.jpg',
+              '/assets/images/no-filter/no-filter-4.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-5.jpg',
+              '/assets/images/no-filter/no-filter-5.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-6.jpg',
+              '/assets/images/no-filter/no-filter-6.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-7.jpg',
+              '/assets/images/no-filter/no-filter-7.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-8.jpg',
+              '/assets/images/no-filter/no-filter-8.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-9.jpg',
+              '/assets/images/no-filter/no-filter-9.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-10.jpg',
+              '/assets/images/no-filter/no-filter-10.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-11.jpg',
+              '/assets/images/no-filter/no-filter-11.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-12.jpg',
+              '/assets/images/no-filter/no-filter-12.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-13.jpg',
+              '/assets/images/no-filter/no-filter-13.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-14.jpg',
+              '/assets/images/no-filter/no-filter-14.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-15.jpg',
+              '/assets/images/no-filter/no-filter-15.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-16.jpg',
+              '/assets/images/no-filter/no-filter-16.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-17.jpg',
+              '/assets/images/no-filter/no-filter-17.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-18.jpg',
+              '/assets/images/no-filter/no-filter-18.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-19.jpg',
+              '/assets/images/no-filter/no-filter-19.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-20.jpg',
+              '/assets/images/no-filter/no-filter-20.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-21.jpg',
+              '/assets/images/no-filter/no-filter-21.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-22.jpg',
+              '/assets/images/no-filter/no-filter-22.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-23.jpg',
+              '/assets/images/no-filter/no-filter-23.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-24.jpg',
+              '/assets/images/no-filter/no-filter-24.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-25.jpg',
+              '/assets/images/no-filter/no-filter-25.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-26.jpg',
+              '/assets/images/no-filter/no-filter-26.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-27.jpg',
+              '/assets/images/no-filter/no-filter-27.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-28.jpg',
+              '/assets/images/no-filter/no-filter-28.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-29.jpg',
+              '/assets/images/no-filter/no-filter-29.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-30.jpg',
+              '/assets/images/no-filter/no-filter-30.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-32.jpg',
+              '/assets/images/no-filter/no-filter-32.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-33.jpg',
+              '/assets/images/no-filter/no-filter-33.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-34.jpg',
+              '/assets/images/no-filter/no-filter-34.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-35.jpg',
+              '/assets/images/no-filter/no-filter-35.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-36.jpg',
+              '/assets/images/no-filter/no-filter-36.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-37.jpg',
+              '/assets/images/no-filter/no-filter-37.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-38.jpg',
+              '/assets/images/no-filter/no-filter-38.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-39.jpg',
+              '/assets/images/no-filter/no-filter-39.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-40.jpg',
+              '/assets/images/no-filter/no-filter-40.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-41.jpg',
+              '/assets/images/no-filter/no-filter-41.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-42.jpg',
+              '/assets/images/no-filter/no-filter-42.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-43.jpg',
+              '/assets/images/no-filter/no-filter-43.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-45.jpg',
+              '/assets/images/no-filter/no-filter-45.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-46.jpg',
+              '/assets/images/no-filter/no-filter-46.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-47.jpg',
+              '/assets/images/no-filter/no-filter-47.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-48.jpg',
+              '/assets/images/no-filter/no-filter-48.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-49.jpg',
+              '/assets/images/no-filter/no-filter-49.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-50.jpg',
+              '/assets/images/no-filter/no-filter-50.JPG',
           },
 		    {
             src:
-              '/assets/images/no-filter/no-filter-51.jpg',
+              '/assets/images/no-filter/no-filter-51.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-52.jpg',
+              '/assets/images/no-filter/no-filter-52.JPG',
           },
           {
             src:
-              '/assets/images/no-filter/no-filter-53.jpg',
+              '/assets/images/no-filter/no-filter-53.JPG',
           },
         ]}
       />
