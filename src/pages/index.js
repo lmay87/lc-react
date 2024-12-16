@@ -60,7 +60,7 @@ export default function Home() {
                 <div className="timeline-date">2015 - 2017</div>
                 <div className="timeline-content">
                   <h3>Graphic Designer</h3>
-                  <p>Joined CGG Veritas, focusing on branding and digital design.</p>
+                  <p>Joined xxxCGG Veritas, focusing on branding and digital design.</p>
                 </div>
               </div>
               <div className="timeline-item">
