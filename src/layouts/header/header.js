@@ -32,7 +32,7 @@ const Header = () => {
             <nav className="main-nav">
               <ul>
               <NavLink
-                  label="ACTIVEWEAR"
+                  label="ACTIVEWEAR2"
                   hrefChild={[
                     { href: '/kids-swim' },
                     { href: '/ordstrom-kids-sleep-2020' },
