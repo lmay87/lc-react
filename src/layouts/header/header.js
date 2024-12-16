@@ -71,7 +71,7 @@ const Header = () => {
                     href="/deadlift"
                   />
                      <NavLink
-                    label="SNACK"
+                    label="ZSNACK"
                     className="gallery-collection"
                     href="/snack"
                   />
