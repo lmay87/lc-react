@@ -76,24 +76,17 @@ const Header = () => {
                     href="/snack"
                   />
                 </NavLink>
-                <NavLink
-                  label="KIDS SPECIALZED"
-                  hrefChild={[
-                    { href: '/kids-swim' },
-                    { href: '/ordstrom-kids-sleep-2020' },
-                  ]}
+                
+               <NavLink
+                  label="HANDBAGS"
+                  hrefChild={[{ href: '/handbags' }]}
                   className="folder-collection folder"
                   href=""
                 >
                   <NavLink
-                    label="KIDS SWIM"
-                    className="gallery-collection"
-                    href="/kids-swim"
-                  />
-                  <NavLink
-                    label="NORDSTROM KIDS SLEEP 2020"
-                    className="gallery-collection"
-                    href="/nordstrom-kids-sleep-2020"
+                    label="HANDBAGS"
+                    className="page-collection"
+                    href="/handbags"
                   />
                 </NavLink>
                 <NavLink
@@ -132,6 +125,8 @@ const Header = () => {
                     { href: '/nordstrom-2022' },
                     { href: '/treasure-bond-2022' },
                     { href: '/associate-kids-designer-project' },
+                    { href: '/kids-swim' },
+                    { href: '/nordstrom-kids-sleep-2020' },
                   ]}
                   className="folder-collection folder"
                   href=""
@@ -170,6 +165,16 @@ const Header = () => {
                     label="ASSOCIATE KIDS DESIGNER PROJECT"
                     className="gallery-collection"
                     href="/associate-kids-designer-project"
+                  />
+                     <NavLink
+                    label="KIDS SWIM"
+                    className="gallery-collection"
+                    href="/kids-swim"
+                  />
+                  <NavLink
+                    label="NORDSTROM KIDS SLEEP 2020"
+                    className="gallery-collection"
+                    href="/nordstrom-kids-sleep-2020"
                   />
                 </NavLink>
                 <NavLink label="About" className="page-collection" href="/" />
@@ -230,18 +235,14 @@ const Header = () => {
                     href="/snack"
                   />
                 </optgroup>
-                <optgroup label="KIDS SPECIALZED">
-                  KIDS SPECIALZED
+                <optgroup label="HANDBAGS">
+                  HANDBAGS
                   <Option
-                    label="KIDS SWIM"
-                    className="gallery-collection"
-                    href="/kids-swim"
+                    label="HANDBAGS"
+                    className="page-collection"
+                    href="/handbags"
                   />
-                  <Option
-                    label="NORDSTROM KIDS SLEEP 2020"
-                    className="gallery-collection"
-                    href="/nordstrom-kids-sleep-2020"
-                  />
+                
                 </optgroup>
 
                 <optgroup label="WOMENS APPAREL DESIGN WORK">
@@ -299,6 +300,16 @@ const Header = () => {
                     label="ASSOCIATE KIDS DESIGNER PROJECT"
                     className="gallery-collection"
                     href="/associate-kids-designer-project"
+                  />
+                  <Option
+                    label="KIDS SWIM"
+                    className="gallery-collection"
+                    href="/kids-swim"
+                  />
+                  <Option
+                    label="NORDSTROM KIDS SLEEP 2020"
+                    className="gallery-collection"
+                    href="/nordstrom-kids-sleep-2020"
                   />
                 </optgroup>
 
