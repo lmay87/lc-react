@@ -43,34 +43,51 @@ export default function Home() {
             {/* Timeline Section */}
             <div className="timeline">
               <div className="timeline-item">
-                <div className="timeline-date">2008 - 2011</div>
+                <div className="timeline-date">2003–2005</div>
                 <div className="timeline-content">
-                  <h3>Fashion Designer</h3>
-                  <p>Worked at 600 West, managing designs and production processes.</p>
+                  <h3>Assistant Designer | 600 West</h3>
+                  <p>Managed design projects and production processes, assisting senior designers with day-to-day tasks.</p>
+                  <p>Gained hands-on experience in garment creation and production workflows.</p>
+                  </div>
+              </div>
+              <div className="timeline-item">
+                <div className="timeline-date">2005–2007</div>
+                <div className="timeline-content">
+                  <h3>Custom Design Specialist | Mira Couture</h3>
+                  <p>Specialized in creating custom clothing and wedding gowns, working closely with clients to bring their visions to life.</p>
+                  <p>Developed skills in pattern-making, garment fitting, and personalized design.</p>
                 </div>
               </div>
               <div className="timeline-item">
-                <div className="timeline-date">2012 - 2014</div>
+                <div className="timeline-date">2010</div>
                 <div className="timeline-content">
-                  <h3>Custom Design Specialist</h3>
-                  <p>Created custom clothing and wedding gowns at Mira Couture.</p>
+                  <h3>Graphic Designer | CGG Veritas</h3>
+                  <p>Focused on branding, graphic design, and digital assets for a variety of corporate clients.</p>
+                  <p>Contributed to enhancing visual identity and marketing materials for the company's services.</p>
                 </div>
               </div>
               <div className="timeline-item">
-                <div className="timeline-date">2015 - 2017</div>
+                <div className="timeline-date">2011 - 2016</div>
                 <div className="timeline-content">
-                  <h3>Graphic Designer</h3>
-                  <p>Joined CGG Veritas, focusing on branding and digital design.</p>
+                  <h3>Freelance Designer</h3>
+                  <p>Worked on various custom design and graphic design projects, providing tailored solutions for clients across multiple industries.</p>
+                  <p>Managed projects independently, building a diverse portfolio of work.</p>
                 </div>
               </div>
               <div className="timeline-item">
-                <div className="timeline-date">2018 - Present</div>
+                <div className="timeline-date">2017 - 2022</div>
                 <div className="timeline-content">
-                  <h3>Nordstrom Designer</h3>
-                  <p>
-                    Specializing in women’s and children’s apparel, expanding
-                    expertise in sweaters, denim, and woven designs.
-                  </p>
+                  <h3>Designer | Nordstrom</h3>
+                  <p>Worked on multiple women’s and kids’ labels, specializing in woven and knitwear design.</p>
+                  <p>Collaborated with cross-functional teams, ensuring cohesive designs from concept to final product.</p>
+                </div>
+              </div>
+              <div className="timeline-item">
+                <div className="timeline-date">2022 - Present</div>
+                <div className="timeline-content">
+                  <h3>Senior Designer | Buffbunny Collection</h3>
+                  <p>Taking on multiple roles, including designer, product developer, technical designer, and raw materials sourcing.</p>
+                  <p>Lead design projects from ideation to execution, helping shape the brand’s aesthetic and product offerings.</p>
                 </div>
               </div>
             </div>
