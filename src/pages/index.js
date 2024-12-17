@@ -63,7 +63,7 @@ export default function Home() {
                 <div className="timeline-content">
                   <h3>Graphic Designer | CGG Veritas</h3>
                   <p>Focused on branding, graphic design, and digital assets for a variety of corporate clients.</p>
-                  <p>Contributed to enhancing visual identity and marketing materials for the company's services.</p>
+                  <p>Contributed to enhancing visual identity and marketing materials for the companys services.</p>
                 </div>
               </div>
               <div className="timeline-item">
@@ -78,7 +78,7 @@ export default function Home() {
                 <div className="timeline-date">2017 - 2022</div>
                 <div className="timeline-content">
                   <h3>Designer | Nordstrom</h3>
-                  <p>Worked on multiple women’s and kids’ labels, specializing in woven and knitwear design.</p>
+                  <p>Worked on multiple womens and kids labels, specializing in woven and knitwear design.</p>
                   <p>Collaborated with cross-functional teams, ensuring cohesive designs from concept to final product.</p>
                 </div>
               </div>
@@ -87,7 +87,7 @@ export default function Home() {
                 <div className="timeline-content">
                   <h3>Senior Designer | Buffbunny Collection</h3>
                   <p>Taking on multiple roles, including designer, product developer, technical designer, and raw materials sourcing.</p>
-                  <p>Lead design projects from ideation to execution, helping shape the brand’s aesthetic and product offerings.</p>
+                  <p>Lead design projects from ideation to execution, helping shape the brands aesthetic and product offerings.</p>
                 </div>
               </div>
             </div>
