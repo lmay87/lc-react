@@ -28,123 +28,123 @@ export default function Butter() {
         imageList={[
           {
             src:
-              '/assets/images/butter/butter-1.jpg',
+              '/assets/images/butter/butter-1.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-2.jpg',
+              '/assets/images/butter/butter-2.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-3.jpg',
+              '/assets/images/butter/butter-3.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-4.jpg',
+              '/assets/images/butter/butter-4.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-5.jpg',
+              '/assets/images/butter/butter-5.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-6.jpg',
+              '/assets/images/butter/butter-6.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-7.jpg',
+              '/assets/images/butter/butter-7.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-8.jpg',
+              '/assets/images/butter/butter-8.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-9.jpg',
+              '/assets/images/butter/butter-9.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-10.jpg',
+              '/assets/images/butter/butter-10.JPG',
           },
 		    {
             src:
-              '/assets/images/butter/butter-11.jpg',
+              '/assets/images/butter/butter-11.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-12.jpg',
+              '/assets/images/butter/butter-12.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-13.jpg',
+              '/assets/images/butter/butter-13.JPG',
           },
 		    {
             src:
-              '/assets/images/butter/butter-14.jpg',
+              '/assets/images/butter/butter-14.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-15.jpg',
+              '/assets/images/butter/butter-15.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-16.jpg',
+              '/assets/images/butter/butter-16.JPG',
           },
 		    {
             src:
-              '/assets/images/butter/butter-17.jpg',
+              '/assets/images/butter/butter-17.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-18.jpg',
+              '/assets/images/butter/butter-18.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-19.jpg',
+              '/assets/images/butter/butter-19.JPG',
           },
 		    {
             src:
-              '/assets/images/butter/butter-20.jpg',
+              '/assets/images/butter/butter-20.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-21.jpg',
+              '/assets/images/butter/butter-21.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-22.jpg',
+              '/assets/images/butter/butter-22.JPG',
           },
 		    {
             src:
-              '/assets/images/butter/butter-23.jpg',
+              '/assets/images/butter/butter-23.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-24.jpg',
+              '/assets/images/butter/butter-24.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-25.jpg',
+              '/assets/images/butter/butter-25.JPG',
           },
 		    {
             src:
-              '/assets/images/butter/butter-26.jpg',
+              '/assets/images/butter/butter-26.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-27.jpg',
+              '/assets/images/butter/butter-27.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-28.jpg',
+              '/assets/images/butter/butter-28.JPG',
           },
 		    {
             src:
-              '/assets/images/butter/butter-29.jpg',
+              '/assets/images/butter/butter-29.JPG',
           },
           {
             src:
-              '/assets/images/butter/butter-30.jpg',
+              '/assets/images/butter/butter-30.JPG',
           },
       
         ]}
