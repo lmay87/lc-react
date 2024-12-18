@@ -28,179 +28,179 @@ export default function GirlFriend() {
         imageList={[
           {
             src:
-              '/assets/images/girlfriend/girlfriend-1.jpg',
+              '/assets/images/girlfriend/girlfriend-1.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-2.jpg',
+              '/assets/images/girlfriend/girlfriend-2.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-3.jpg',
+              '/assets/images/girlfriend/girlfriend-3.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-4.jpg',
+              '/assets/images/girlfriend/girlfriend-4.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-5.jpg',
+              '/assets/images/girlfriend/girlfriend-5.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-6.jpg',
+              '/assets/images/girlfriend/girlfriend-6.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-7.jpg',
+              '/assets/images/girlfriend/girlfriend-7.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-8.jpg',
+              '/assets/images/girlfriend/girlfriend-8.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-9.jpg',
+              '/assets/images/girlfriend/girlfriend-9.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-10.jpg',
+              '/assets/images/girlfriend/girlfriend-10.JPG',
           },
 		    {
             src:
-              '/assets/images/girlfriend/girlfriend-11.jpg',
+              '/assets/images/girlfriend/girlfriend-11.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-12.jpg',
+              '/assets/images/girlfriend/girlfriend-12.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-13.jpg',
+              '/assets/images/girlfriend/girlfriend-13.JPG',
           },
 		    {
             src:
-              '/assets/images/girlfriend/girlfriend-14.jpg',
+              '/assets/images/girlfriend/girlfriend-14.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-15.jpg',
+              '/assets/images/girlfriend/girlfriend-15.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-16.jpg',
+              '/assets/images/girlfriend/girlfriend-16.JPG',
           },
 		    {
             src:
-              '/assets/images/girlfriend/girlfriend-17.jpg',
+              '/assets/images/girlfriend/girlfriend-17.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-18.jpg',
+              '/assets/images/girlfriend/girlfriend-18.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-19.jpg',
+              '/assets/images/girlfriend/girlfriend-19.JPG',
           },
 		    {
             src:
-              '/assets/images/girlfriend/girlfriend-20.jpg',
+              '/assets/images/girlfriend/girlfriend-20.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-21.jpg',
+              '/assets/images/girlfriend/girlfriend-21.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-22.jpg',
+              '/assets/images/girlfriend/girlfriend-22.JPG',
           },
 		    {
             src:
-              '/assets/images/girlfriend/girlfriend-23.jpg',
+              '/assets/images/girlfriend/girlfriend-23.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-24.jpg',
+              '/assets/images/girlfriend/girlfriend-24.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-25.jpg',
+              '/assets/images/girlfriend/girlfriend-25.JPG',
           },
 		    {
             src:
-              '/assets/images/girlfriend/girlfriend-26.jpg',
+              '/assets/images/girlfriend/girlfriend-26.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-27.jpg',
+              '/assets/images/girlfriend/girlfriend-27.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-28.jpg',
+              '/assets/images/girlfriend/girlfriend-28.JPG',
           },
 		    {
             src:
-              '/assets/images/girlfriend/girlfriend-29.jpg',
+              '/assets/images/girlfriend/girlfriend-29.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-30.jpg',
+              '/assets/images/girlfriend/girlfriend-30.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-32.jpg',
+              '/assets/images/girlfriend/girlfriend-32.JPG',
           },
 		    {
             src:
-              '/assets/images/girlfriend/girlfriend-33.jpg',
+              '/assets/images/girlfriend/girlfriend-33.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-34.jpg',
+              '/assets/images/girlfriend/girlfriend-34.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-35.jpg',
+              '/assets/images/girlfriend/girlfriend-35.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-36.jpg',
+              '/assets/images/girlfriend/girlfriend-36.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-37.jpg',
+              '/assets/images/girlfriend/girlfriend-37.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-38.jpg',
+              '/assets/images/girlfriend/girlfriend-38.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-39.jpg',
+              '/assets/images/girlfriend/girlfriend-39.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-40.jpg',
+              '/assets/images/girlfriend/girlfriend-40.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-41.jpg',
+              '/assets/images/girlfriend/girlfriend-41.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-42.jpg',
+              '/assets/images/girlfriend/girlfriend-42.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-43.jpg',
+              '/assets/images/girlfriend/girlfriend-43.JPG',
           },
 		    {
             src:
-              '/assets/images/girlfriend/girlfriend-45.jpg',
+              '/assets/images/girlfriend/girlfriend-45.JPG',
           },
           {
             src:
-              '/assets/images/girlfriend/girlfriend-46.jpg',
+              '/assets/images/girlfriend/girlfriend-46.JPG',
           },
        
         ]}
