@@ -28,83 +28,83 @@ export default function HandBags() {
         imageList={[
           {
             src:
-              '/assets/images/handbags/handbags-1.jpg',
+              '/assets/images/handbags/handbags-1.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-2.jpg',
+              '/assets/images/handbags/handbags-2.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-3.jpg',
+              '/assets/images/handbags/handbags-3.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-4.jpg',
+              '/assets/images/handbags/handbags-4.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-5.jpg',
+              '/assets/images/handbags/handbags-5.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-6.jpg',
+              '/assets/images/handbags/handbags-6.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-7.jpg',
+              '/assets/images/handbags/handbags-7.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-8.jpg',
+              '/assets/images/handbags/handbags-8.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-9.jpg',
+              '/assets/images/handbags/handbags-9.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-10.jpg',
+              '/assets/images/handbags/handbags-10.JPG',
           },
 		    {
             src:
-              '/assets/images/handbags/handbags-11.jpg',
+              '/assets/images/handbags/handbags-11.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-12.jpg',
+              '/assets/images/handbags/handbags-12.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-13.jpg',
+              '/assets/images/handbags/handbags-13.JPG',
           },
 		    {
             src:
-              '/assets/images/handbags/handbags-14.jpg',
+              '/assets/images/handbags/handbags-14.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-15.jpg',
+              '/assets/images/handbags/handbags-15.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-16.jpg',
+              '/assets/images/handbags/handbags-16.JPG',
           },
 		    {
             src:
-              '/assets/images/handbags/handbags-17.jpg',
+              '/assets/images/handbags/handbags-17.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-18.jpg',
+              '/assets/images/handbags/handbags-18.JPG',
           },
           {
             src:
-              '/assets/images/handbags/handbags-19.jpg',
+              '/assets/images/handbags/handbags-19.JPG',
           },
 		    {
             src:
-              '/assets/images/handbags/handbags-20.jpg',
+              '/assets/images/handbags/handbags-20.JPG',
           },
         
         ]}
