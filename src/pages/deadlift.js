@@ -186,50 +186,7 @@ export default function Deadlift() {
             src:
               '/assets/images/deadlift/deadlift-41.jpg',
           },
-          {
-            src:
-              '/assets/images/deadlift/deadlift-42.jpg',
-          },
-          {
-            src:
-              '/assets/images/deadlift/deadlift-43.jpg',
-          },
-		    {
-            src:
-              '/assets/images/deadlift/deadlift-45.jpg',
-          },
-          {
-            src:
-              '/assets/images/deadlift/deadlift-46.jpg',
-          },
-          {
-            src:
-              '/assets/images/deadlift/deadlift-47.jpg',
-          },
-		    {
-            src:
-              '/assets/images/deadlift/deadlift-48.jpg',
-          },
-          {
-            src:
-              '/assets/images/deadlift/deadlift-49.jpg',
-          },
-          {
-            src:
-              '/assets/images/deadlift/deadlift-50.jpg',
-          },
-		    {
-            src:
-              '/assets/images/deadlift/deadlift-51.jpg',
-          },
-          {
-            src:
-              '/assets/images/deadlift/deadlift-52.jpg',
-          },
-          {
-            src:
-              '/assets/images/deadlift/deadlift-53.jpg',
-          },
+        
         ]}
       />
     </section>

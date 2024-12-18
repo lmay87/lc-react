@@ -202,34 +202,7 @@ export default function GirlFriend() {
             src:
               '/assets/images/girlfriend/girlfriend-46.jpg',
           },
-          {
-            src:
-              '/assets/images/girlfriend/girlfriend-47.jpg',
-          },
-		    {
-            src:
-              '/assets/images/girlfriend/girlfriend-48.jpg',
-          },
-          {
-            src:
-              '/assets/images/girlfriend/girlfriend-49.jpg',
-          },
-          {
-            src:
-              '/assets/images/girlfriend/girlfriend-50.jpg',
-          },
-		    {
-            src:
-              '/assets/images/girlfriend/girlfriend-51.jpg',
-          },
-          {
-            src:
-              '/assets/images/girlfriend/girlfriend-52.jpg',
-          },
-          {
-            src:
-              '/assets/images/girlfriend/girlfriend-53.jpg',
-          },
+       
         ]}
       />
     </section>

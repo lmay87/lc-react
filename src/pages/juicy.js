@@ -202,34 +202,7 @@ export default function Juicy() {
             src:
               '/assets/images/juicy/juicy-46.jpg',
           },
-          {
-            src:
-              '/assets/images/juicy/juicy-47.jpg',
-          },
-		    {
-            src:
-              '/assets/images/juicy/juicy-48.jpg',
-          },
-          {
-            src:
-              '/assets/images/juicy/juicy-49.jpg',
-          },
-          {
-            src:
-              '/assets/images/juicy/juicy-50.jpg',
-          },
-		    {
-            src:
-              '/assets/images/juicy/juicy-51.jpg',
-          },
-          {
-            src:
-              '/assets/images/juicy/juicy-52.jpg',
-          },
-          {
-            src:
-              '/assets/images/juicy/juicy-53.jpg',
-          },
+ 
         ]}
       />
     </section>

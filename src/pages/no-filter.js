@@ -174,62 +174,7 @@ export default function NoFilter() {
             src:
               '/assets/images/no-filter/no-filter-38.JPG',
           },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-39.JPG',
-          },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-40.JPG',
-          },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-41.JPG',
-          },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-42.JPG',
-          },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-43.JPG',
-          },
-		    {
-            src:
-              '/assets/images/no-filter/no-filter-45.JPG',
-          },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-46.JPG',
-          },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-47.JPG',
-          },
-		    {
-            src:
-              '/assets/images/no-filter/no-filter-48.JPG',
-          },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-49.JPG',
-          },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-50.JPG',
-          },
-		    {
-            src:
-              '/assets/images/no-filter/no-filter-51.JPG',
-          },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-52.JPG',
-          },
-          {
-            src:
-              '/assets/images/no-filter/no-filter-53.JPG',
-          },
+
         ]}
       />
     </section>
